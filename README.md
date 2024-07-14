@@ -60,10 +60,11 @@ def get_images_masks(path):
 train_imgs,train_masks=get_images_masks(train_folder)
 valid_imgs,valid_masks=get_images_masks(valid_folder)
 
-#train_len=len(train_imgs)
-#valid_len=len(valid_imgs)
-#print(f'Train Images:{train_len}\nValid Images:{valid_len}')
 ```
+
+
+![Alt text](PSPNet.png)
+
 
 
 
